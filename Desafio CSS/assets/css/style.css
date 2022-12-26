@@ -1,0 +1,44 @@
+.principal {
+
+    color: rgb(242, 163, 35);
+    background-image: url(../img/carsale.jpg);
+    background-size: cover;
+    background-position: right;
+    height: 200px;
+    text-align: center;
+   }
+
+.principal h1 {
+
+    padding: 40px;
+    height: 0%;
+}
+
+.productos { 
+    display: inline-flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.productos .info {
+    padding-left: 20px;
+    text-align: center;
+    padding-top: 140px;
+}
+
+.productos img{
+    width: 40%;
+    border: solid 1px white;
+    padding: 35px;
+}
+
+.footer {
+    height: 30px;
+    line-height: 30px;
+    background-color: grey;
+    color: blue;
+    text-align: center;
+    font-weight: 900;
+    padding: 0px;
+}

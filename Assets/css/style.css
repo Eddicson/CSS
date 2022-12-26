@@ -1,0 +1,40 @@
+
+body  {
+    background-color:  white;
+                color:black;
+    }
+    .remarcar {
+        background-color: aqua;
+        color: black;
+    }
+    .skills{
+        color: blue;
+    }
+    #unico {
+        background-color: blue;
+        border-style: solid;
+        border-radius: 30px;
+        padding: 40px;
+    }
+    .border-box {
+        border: solid 1px green;
+        padding: 20px;
+        margin: 50px;
+    }
+    div.section-one {
+        background-color: blue;
+    }
+    div.section-two {
+        background-color: blueviolet;
+    }
+    div.section-tree {
+        background-color: aqua;
+    }
+    div {
+        padding: 15px;
+        text-align: center;
+        padding-left: 50pxjkgh;
+    }
+    div * {
+        margin: 0px;
+    }
